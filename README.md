@@ -1,9 +1,10 @@
 Hello All!!
 
 This is William Nasaraen..
-I am a Full Stack Senior Software Engineer from Tamil Nadu, India.
+I am a Full Stack Senior Software Engineer with storng foundation in Computer Sciene.
 Here You can find some of My repositaries that i have worked on and my learnings.
-Most of them include Java, Spring boot, Angualr Js and React Js.
+Most of them include Java, Spring boot, Angualar Js and React Js.
+
 
 <!---
 msnasaraen/msnasaraen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
